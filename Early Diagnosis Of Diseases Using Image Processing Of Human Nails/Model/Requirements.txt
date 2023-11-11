@@ -1,0 +1,6 @@
+You can download the dataset used in this project using the below link
+Dataset:
+https://drive.google.com/drive/folders/1AXTYsbiarS1TCAgfj0mancTSrJYYMWMs?usp=sharing
+
+Model built and used can be downloaded from this link:
+https://drive.google.com/drive/folders/1GNm2eCPlFsdOmxYLWBiOIIbWQ3xGX-Ds?usp=sharing
